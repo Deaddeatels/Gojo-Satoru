@@ -9,7 +9,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
+global.APIs = { 
 	zenz: 'https://zenzapis.xyz',
 }
 
@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['+94776697202']
+global.premium = ['+94776697202']
+global.ownernomer = '+94776697202'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
